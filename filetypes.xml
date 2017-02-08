@@ -4,8 +4,9 @@
     <extensionMap>
       <mapping pattern="Easyhealthplus.aiml" type="PLAIN_TEXT" />
       <mapping ext="aiml" type="PLAIN_TEXT" />
-      <mapping pattern="asr" type="Python" />
+      <mapping ext="brn" type="PLAIN_TEXT" />
       <mapping pattern="kle" type="Python" />
+      <mapping pattern="asr" type="Python" />
       <mapping pattern="nm" type="Python" />
     </extensionMap>
   </component>
